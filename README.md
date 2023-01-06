@@ -9,25 +9,25 @@ Project idea:
 
 	What factors should we consider when deciding whether to shower or not?
 
-Priority…
+	Priority…
 
-What kind of data should we make use of?
+	What kind of data should we make use of?
 
-How can we get that data?
+	How can we get that data?
 
-How should we preprocess given data?
+	How should we preprocess given data?
 
-What model should we use?
+	What model should we use?
 
-What relationships should we pay attention to?
+	What relationships should we pay attention to?
 
-What is the relationship between water usage and weather temperature?
+	What is the relationship between water usage and weather temperature?
 
-How about water usage and specific events (midterms, finals, break,...etc…)?
+	How about water usage and specific events (midterms, finals, break,...etc…)?
 
-Water usage and Electricity usage?
+	Water usage and Electricity usage?
 
-After we get our results, how do we present it effectively (how to visualize)
+	After we get our results, how do we present it effectively (how to visualize)
 	
 2. Throughout ten years of collected data, what are some significant and unexpected changes? (Tell a story)
 What can we learn from those changes?

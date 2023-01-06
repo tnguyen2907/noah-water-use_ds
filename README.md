@@ -2,7 +2,7 @@
 
 Group Members: Trung Nguyen, Dat Le, Binh Nguyen
 
-Project idea:
+Project idea: We want to answer some research questions from the large amount of data we have
 
 ### Research questions:
 1. When should we take a shower?

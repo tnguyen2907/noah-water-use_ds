@@ -6,12 +6,9 @@ Project idea:
 
 ### Research questions:
 1. When should we take a shower?
-
-	What factors should we consider when deciding whether to shower or not?
-
-	Priority…
-
-	What kind of data should we make use of?
+	- What factors should we consider when deciding whether to shower or not?
+		- Priority…
+	- What kind of data should we make use of?
 
 	How can we get that data?
 

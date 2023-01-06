@@ -6,17 +6,26 @@ Project idea:
 
 ### Research questions:
 1. When should we take a shower?
-What factors should we consider when deciding whether to shower or not?
-Priority…
-What kind of data should we make use of?
-How can we get that data?
-How should we preprocess given data?
-What model should we use?
-What relationships should we pay attention to?
-What is the relationship between water usage and weather temperature?
-How about water usage and specific events (midterms, finals, break,...etc…)?
-Water usage and Electricity usage?
 
+What factors should we consider when deciding whether to shower or not?
+
+Priority…
+
+What kind of data should we make use of?
+
+How can we get that data?
+
+How should we preprocess given data?
+
+What model should we use?
+
+What relationships should we pay attention to?
+
+What is the relationship between water usage and weather temperature?
+
+How about water usage and specific events (midterms, finals, break,...etc…)?
+
+Water usage and Electricity usage?
 
 After we get our results, how do we present it effectively (how to visualize)
 	

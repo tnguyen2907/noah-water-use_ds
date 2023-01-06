@@ -19,17 +19,17 @@ Project idea:
 	- After we get our results, how do we present it effectively (how to visualize)
 	
 2. Throughout ten years of collected data, what are some significant and unexpected changes? (Tell a story)
-What can we learn from those changes?
-When?
-Why? 
-Are they good or bad? What can we do to manipulate them?
+	- What can we learn from those changes?
+		- When?
+		- Why? 
+	- Are they good or bad? What can we do to manipulate them?
 
 3. Have Oberlin’s measures to alleviate Global Warming been adequate for the last ten years?
-What measures has Oberlin used to alleviate global warming in the last 10 years?
-How can we measure global warming? What factors should we consider?
-How significant are the changes made by those measures? (Compared to other schools or organizations)
-Are those measures worth it?
-What are some other measures Oberlin can use instead?
+	- What measures has Oberlin used to alleviate global warming in the last 10 years?
+	- How can we measure global warming? What factors should we consider?
+	- How significant are the changes made by those measures? (Compared to other schools or organizations)
+	- Are those measures worth it?
+	- What are some other measures Oberlin can use instead?
 
 
 What is the trend of using water, electricity, watershed, and weather

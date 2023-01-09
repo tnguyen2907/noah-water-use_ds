@@ -1,6 +1,6 @@
 # projecttemplate
 
-Group Members: Trung Nguyen, Dat Le, Binh Nguyen
+Group Members: Trung Nguyen, Binh Nguyen
 
 Project idea: We want to answer some research questions from the large amount of data we have
 

@@ -36,3 +36,6 @@ Project idea: We want to answer some research questions from the large amount of
 - 01/14/2023: Answer the first question: 1. When should we take a shower?
 - 01/21/2023: Answer the second question: 2. Throughout ten years of collected data, what are some significant and unexpected changes?
 - 01/28/2023: Answer the third question: 3. Have Oberlin’s measures to alleviate Global Warming been adequate for the last ten years?
+
+### Google Doc link:
+https://docs.google.com/document/d/1O2ffmMn3dvHcvwf6eG09u_9TLqpHf4Uw-Uqv6bvszTI/edit

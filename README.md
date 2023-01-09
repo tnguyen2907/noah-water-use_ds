@@ -32,12 +32,7 @@ Project idea: We want to answer some research questions from the large amount of
 	- What are some other measures Oberlin can use instead?
 
 
-What is the trend of using water, electricity, watershed, and weather
-Difference between the usage of water, electricity 10 years ago and now
-	Total electricity
-	Water treatment electricity use
-	CO2 emissions from electricity per person
-	Outdoor temperature
-
-	
-
+### Schedule:
+- 01/14/2023: Answer the first question: 1. When should we take a shower?
+- 01/21/2023: Answer the second question: 2. Throughout ten years of collected data, what are some significant and unexpected changes?
+- 01/28/2023: Answer the third question: 3. Have Oberlin’s measures to alleviate Global Warming been adequate for the last ten years?

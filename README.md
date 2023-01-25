@@ -1,4 +1,4 @@
-# projecttemplate
+# DATA SCIENCE WINTER TERM PROJECT
 
 Group Members: Trung Nguyen, Binh Nguyen
 
